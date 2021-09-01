@@ -1,0 +1,65 @@
+.navbar-nav > li{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+/* definir background */
+.bg-principal-cos {
+	background: #002060;
+}
+
+.bg-gray-cos {
+	background: #DBDBDB;
+}
+
+.bg-empresa-cos {
+	background: #0098c1;
+}
+
+.bg-gris-cos {
+	background: #f5f5f5;
+}
+
+.bg-footer {
+	background: #A4A4A4;
+}
+
+/*hipervinculos - enlaces*/
+/*blanco*/
+.link-white { 
+	color:#fff; 
+	text-decoration:none; 
+	font-size:14px;	
+}
+.link-white:link {
+	color: rgb(202, 182, 182);
+	text-decoration: none;
+}
+.link-white:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+.link-white:hover {
+	text-decoration: none;
+	color: #FF0 !important;
+}
+.link-white:active {
+	text-decoration: none;
+	color: #FFF;
+}
+
+/* definir texto - letras - contenido - color - colores */
+.text-blue-cos{
+	color: blue;
+}
+.text-red-cos{
+	color: red;
+}
+.text-green-cos {	
+	color: green;
+}
+
+.box-shadow-cos:hover
+{
+	box-shadow: 2px 2px 5px #999;
+}
